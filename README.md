@@ -9,7 +9,24 @@
 
 以nes文件，以NoteExpress为例
 
-- 《计算机集成制造系统》：[计算机集成制造系统-look.nes](./nes_in_NoteExpress/计算机集成制造系统-look.nes)
+### 《计算机集成制造系统》：[计算机集成制造系统-look.nes](./nes_in_NoteExpress/计算机集成制造系统-look.nes)
+
+**要求：**
+
+1、所有的非英文参考文献须同时给出英文。
+
+例：
+
+[1] FU Chuang, CHEN Yuanchu, YU Ren,et al. The Application of fieldbus technology in intelligent control-maintenance-management system platform[J]. Process Automation Instruments, 2001,22(7)：35-38 (in Chinese) . [傅  闯, 程远楚, 余  刃,等. 现场总线技术在智能控制-维护-管理系统(ICMMS)平台中的应用[J]. 自动化仪表, 2001,22(7)：35-38.]
+
+2、英文参考文献不需译为中文，但需按照作者姓前、名后的顺序，姓全拼且大写，名只保留第一个字母。
+
+例：
+
+BADELL M, NOUGUES J M, PUIGJANER L. Integrated on line production and financial scheduling with intelligent autonomous agent based information system[J]. Computers & Chemical Engineering, 1998,22(S):271-278.
+
+3、作者为3人或少于3人应全部写出；3人以上只列出前3人，后加“等”或“et al”。
+
 
 **引文样式**：
 
